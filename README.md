@@ -25,7 +25,7 @@ The [Symbols](https://github.com/miguelsolorio/vscode-symbols) file icon theme, 
 In Orca, open Settings → Plugins, search for **Symbols** and install it. Or, from a terminal:
 
 ```sh
-orca plugin install marco-calderon/symbols-orca-icon-theme
+orca plugin install VectorFlight/symbols-orca-icon-theme
 ```
 
 Then pick **Symbols** as the file icon theme in Settings → Appearance.

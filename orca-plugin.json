@@ -2,14 +2,14 @@
   "manifestVersion": 2,
   "id": "symbols-icons",
   "name": "Symbols",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The Symbols file icon theme by Miguel Solorio, ported from VS Code to Orca.",
   "author": {
     "name": "Miguel Solorio",
     "url": "https://github.com/miguelsolorio"
   },
   "license": "MIT",
-  "repository": "https://github.com/marco-calderon/symbols-orca-icon-theme",
+  "repository": "https://github.com/VectorFlight/symbols-orca-icon-theme",
   "homepage": "https://github.com/miguelsolorio/vscode-symbols",
   "icon": "images/icon.png",
   "engines": {
