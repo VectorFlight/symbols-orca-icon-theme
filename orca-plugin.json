@@ -1,0 +1,49 @@
+{
+  "manifestVersion": 2,
+  "id": "symbols-icons",
+  "name": "Symbols",
+  "version": "1.0.0",
+  "description": "The Symbols file icon theme by Miguel Solorio, ported from VS Code to Orca.",
+  "author": {
+    "name": "Miguel Solorio",
+    "url": "https://github.com/miguelsolorio"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/marco-calderon/symbols-orca-icon-theme",
+  "homepage": "https://github.com/miguelsolorio/vscode-symbols",
+  "icon": "images/icon.png",
+  "engines": {
+    "orca": ">=1.4.246"
+  },
+  "execution": "data",
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "symbols",
+        "title": "Symbols",
+        "path": "icons/theme.json"
+      }
+    ]
+  },
+  "cover": {
+    "path": "images/cover.png",
+    "alt": "The Symbols logo and name above a row of Symbols file and folder icons"
+  },
+  "screenshots": [
+    {
+      "path": "images/dark.png",
+      "alt": "A web project's file tree in Orca with Symbols icons for TypeScript, React, Docker, Vite, Tailwind and config files",
+      "caption": "A TypeScript and React project"
+    },
+    {
+      "path": "images/light.png",
+      "alt": "A Go, Rust, Python and SQL project's file tree with Symbols icons on a light background",
+      "caption": "A polyglot project on a light theme"
+    },
+    {
+      "path": "images/gallery.png",
+      "alt": "A grid of all 321 file and folder icons in the theme",
+      "caption": "Every icon in the theme"
+    }
+  ]
+}
