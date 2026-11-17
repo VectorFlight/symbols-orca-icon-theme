@@ -1,0 +1,12 @@
+{
+  "name": "symbols-orca-icon-theme",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "validate": "orca plugin validate ."
+  },
+  "devDependencies": {
+    "svgo": "3.3.2"
+  }
+}
